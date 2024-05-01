@@ -1,0 +1,13 @@
+table{
+    width: 100%;
+    margin-top: -16px;
+}
+
+table thead tr th{
+    background-color: lightblue;
+}
+
+i{
+    font-size: 20px;
+    cursor: pointer;
+}
